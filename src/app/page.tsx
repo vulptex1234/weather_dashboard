@@ -13,7 +13,6 @@ export default function Home() {
   const [error, setError] = useState<string | null>(null);
   const [lastUpdated, setLastUpdated] = useState<Date | null>(null);
   const [nextUpdate, setNextUpdate] = useState<Date | null>(null);
-  const [countdown, setCountdown] = useState<string>('');
 
   useEffect(() => {
     async function fetchData() {
@@ -51,25 +50,6 @@ export default function Home() {
     }
     fetchData();
   }, []);
-
-  useEffect(() => {
-    if (!nextUpdate) return;
-
-    const timer = setInterval(() => {
-      const now = new Date();
-      const diff = nextUpdate.getTime() - now.getTime();
-      if (diff <= 0) {
-        clearInterval(timer);
-        setCountdown('更新中...');
-        return;
-      }
-      const minutes = Math.floor(diff / 60000);
-      const seconds = Math.floor((diff % 60000) / 1000);
-      setCountdown(`${minutes}:${seconds.toString().padStart(2, '0')}`);
-    }, 1000);
-
-    return () => clearInterval(timer);
-  }, [nextUpdate]);
 
   if (loading) {
     return (
@@ -122,7 +102,12 @@ export default function Home() {
           {lastUpdated && (
             <p>最終更新: {format(lastUpdated, 'yyyy年MM月dd日 HH:mm:ss')}</p>
           )}
-          {nextUpdate && <p>次の更新まで: {countdown}</p>}
+          {nextUpdate && (
+            <p>
+              次の更新まで:{' '}
+              {formatDistanceToNow(nextUpdate, { locale: ja, addSuffix: true })}
+            </p>
+          )}
         </div>
       </div>
 
