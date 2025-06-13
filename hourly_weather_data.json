@@ -1,0 +1,561 @@
+{
+  "current": {
+    "dt": 1749792558,
+    "japanese_time": "2025/6/13 14:29:18",
+    "temp": 24.89,
+    "feels_like": 25,
+    "pressure": 1018,
+    "humidity": 60,
+    "dew_point": 16.6,
+    "uvi": 2.27,
+    "clouds": 75,
+    "visibility": 10000,
+    "wind_speed": 3.6,
+    "wind_deg": 160,
+    "weather": {
+      "id": 803,
+      "main": "Clouds",
+      "description": "曇りがち",
+      "icon": "04d"
+    }
+  },
+  "hourly": [
+    {
+      "dt": 1749790800,
+      "japanese_time": "2025/6/13 14:00:00",
+      "temp": 24.89,
+      "feels_like": 25,
+      "pressure": 1018,
+      "humidity": 60,
+      "dew_point": 16.6,
+      "uvi": 2.27,
+      "clouds": 75,
+      "visibility": 10000,
+      "wind_speed": 3.17,
+      "wind_deg": 166,
+      "wind_gust": 3.84,
+      "weather": {
+        "id": 803,
+        "main": "Clouds",
+        "description": "曇りがち",
+        "icon": "04d"
+      },
+      "pop": 0
+    },
+    {
+      "dt": 1749794400,
+      "japanese_time": "2025/6/13 15:00:00",
+      "temp": 24.84,
+      "feels_like": 24.92,
+      "pressure": 1018,
+      "humidity": 59,
+      "dew_point": 16.29,
+      "uvi": 1.57,
+      "clouds": 80,
+      "visibility": 10000,
+      "wind_speed": 3.25,
+      "wind_deg": 158,
+      "wind_gust": 3.36,
+      "weather": {
+        "id": 803,
+        "main": "Clouds",
+        "description": "曇りがち",
+        "icon": "04d"
+      },
+      "pop": 0
+    },
+    {
+      "dt": 1749798000,
+      "japanese_time": "2025/6/13 16:00:00",
+      "temp": 24.6,
+      "feels_like": 24.66,
+      "pressure": 1018,
+      "humidity": 59,
+      "dew_point": 16.06,
+      "uvi": 0.91,
+      "clouds": 85,
+      "visibility": 10000,
+      "wind_speed": 3.77,
+      "wind_deg": 159,
+      "wind_gust": 3.74,
+      "weather": {
+        "id": 804,
+        "main": "Clouds",
+        "description": "厚い雲",
+        "icon": "04d"
+      },
+      "pop": 0
+    },
+    {
+      "dt": 1749801600,
+      "japanese_time": "2025/6/13 17:00:00",
+      "temp": 23.67,
+      "feels_like": 23.74,
+      "pressure": 1017,
+      "humidity": 63,
+      "dew_point": 16.22,
+      "uvi": 0.33,
+      "clouds": 90,
+      "visibility": 10000,
+      "wind_speed": 4.13,
+      "wind_deg": 175,
+      "wind_gust": 5.42,
+      "weather": {
+        "id": 804,
+        "main": "Clouds",
+        "description": "厚い雲",
+        "icon": "04d"
+      },
+      "pop": 0
+    },
+    {
+      "dt": 1749805200,
+      "japanese_time": "2025/6/13 18:00:00",
+      "temp": 22.5,
+      "feels_like": 22.58,
+      "pressure": 1018,
+      "humidity": 68,
+      "dew_point": 16.3,
+      "uvi": 0.08,
+      "clouds": 95,
+      "visibility": 10000,
+      "wind_speed": 3.82,
+      "wind_deg": 178,
+      "wind_gust": 5.14,
+      "weather": {
+        "id": 804,
+        "main": "Clouds",
+        "description": "厚い雲",
+        "icon": "04d"
+      },
+      "pop": 0
+    },
+    {
+      "dt": 1749808800,
+      "japanese_time": "2025/6/13 19:00:00",
+      "temp": 20.54,
+      "feels_like": 20.61,
+      "pressure": 1018,
+      "humidity": 75,
+      "dew_point": 15.41,
+      "uvi": 0,
+      "clouds": 100,
+      "visibility": 10000,
+      "wind_speed": 3.53,
+      "wind_deg": 183,
+      "wind_gust": 4.86,
+      "weather": {
+        "id": 804,
+        "main": "Clouds",
+        "description": "厚い雲",
+        "icon": "04n"
+      },
+      "pop": 0
+    },
+    {
+      "dt": 1749812400,
+      "japanese_time": "2025/6/13 20:00:00",
+      "temp": 19.95,
+      "feels_like": 20.04,
+      "pressure": 1018,
+      "humidity": 78,
+      "dew_point": 15.45,
+      "uvi": 0,
+      "clouds": 100,
+      "visibility": 10000,
+      "wind_speed": 2.9,
+      "wind_deg": 186,
+      "wind_gust": 3.92,
+      "weather": {
+        "id": 804,
+        "main": "Clouds",
+        "description": "厚い雲",
+        "icon": "04n"
+      },
+      "pop": 0
+    },
+    {
+      "dt": 1749816000,
+      "japanese_time": "2025/6/13 21:00:00",
+      "temp": 19.33,
+      "feels_like": 19.46,
+      "pressure": 1019,
+      "humidity": 82,
+      "dew_point": 15.51,
+      "uvi": 0,
+      "clouds": 100,
+      "visibility": 10000,
+      "wind_speed": 2.84,
+      "wind_deg": 189,
+      "wind_gust": 3.83,
+      "weather": {
+        "id": 804,
+        "main": "Clouds",
+        "description": "厚い雲",
+        "icon": "04n"
+      },
+      "pop": 0
+    },
+    {
+      "dt": 1749819600,
+      "japanese_time": "2025/6/13 22:00:00",
+      "temp": 19.14,
+      "feels_like": 19.28,
+      "pressure": 1018,
+      "humidity": 83,
+      "dew_point": 15.51,
+      "uvi": 0,
+      "clouds": 100,
+      "visibility": 10000,
+      "wind_speed": 2.68,
+      "wind_deg": 191,
+      "wind_gust": 3.64,
+      "weather": {
+        "id": 804,
+        "main": "Clouds",
+        "description": "厚い雲",
+        "icon": "04n"
+      },
+      "pop": 0
+    },
+    {
+      "dt": 1749823200,
+      "japanese_time": "2025/6/13 23:00:00",
+      "temp": 19.04,
+      "feels_like": 19.19,
+      "pressure": 1018,
+      "humidity": 84,
+      "dew_point": 15.57,
+      "uvi": 0,
+      "clouds": 100,
+      "visibility": 10000,
+      "wind_speed": 2.4,
+      "wind_deg": 195,
+      "wind_gust": 3.14,
+      "weather": {
+        "id": 804,
+        "main": "Clouds",
+        "description": "厚い雲",
+        "icon": "04n"
+      },
+      "pop": 0
+    },
+    {
+      "dt": 1749826800,
+      "japanese_time": "2025/6/14 0:00:00",
+      "temp": 18.69,
+      "feels_like": 18.83,
+      "pressure": 1018,
+      "humidity": 85,
+      "dew_point": 15.58,
+      "uvi": 0,
+      "clouds": 100,
+      "visibility": 10000,
+      "wind_speed": 2.37,
+      "wind_deg": 200,
+      "wind_gust": 3.21,
+      "weather": {
+        "id": 804,
+        "main": "Clouds",
+        "description": "厚い雲",
+        "icon": "04n"
+      },
+      "pop": 0
+    },
+    {
+      "dt": 1749830400,
+      "japanese_time": "2025/6/14 1:00:00",
+      "temp": 18.55,
+      "feels_like": 18.71,
+      "pressure": 1018,
+      "humidity": 86,
+      "dew_point": 15.44,
+      "uvi": 0,
+      "clouds": 100,
+      "visibility": 10000,
+      "wind_speed": 2.29,
+      "wind_deg": 210,
+      "wind_gust": 3.35,
+      "weather": {
+        "id": 804,
+        "main": "Clouds",
+        "description": "厚い雲",
+        "icon": "04n"
+      },
+      "pop": 0
+    },
+    {
+      "dt": 1749834000,
+      "japanese_time": "2025/6/14 2:00:00",
+      "temp": 18.24,
+      "feels_like": 18.37,
+      "pressure": 1017,
+      "humidity": 86,
+      "dew_point": 15.27,
+      "uvi": 0,
+      "clouds": 100,
+      "visibility": 10000,
+      "wind_speed": 1.99,
+      "wind_deg": 209,
+      "wind_gust": 2.96,
+      "weather": {
+        "id": 804,
+        "main": "Clouds",
+        "description": "厚い雲",
+        "icon": "04n"
+      },
+      "pop": 0
+    },
+    {
+      "dt": 1749837600,
+      "japanese_time": "2025/6/14 3:00:00",
+      "temp": 18.22,
+      "feels_like": 18.32,
+      "pressure": 1017,
+      "humidity": 85,
+      "dew_point": 15.22,
+      "uvi": 0,
+      "clouds": 100,
+      "visibility": 10000,
+      "wind_speed": 2.01,
+      "wind_deg": 218,
+      "wind_gust": 3,
+      "weather": {
+        "id": 804,
+        "main": "Clouds",
+        "description": "厚い雲",
+        "icon": "04n"
+      },
+      "pop": 0
+    },
+    {
+      "dt": 1749841200,
+      "japanese_time": "2025/6/14 4:00:00",
+      "temp": 18.52,
+      "feels_like": 18.62,
+      "pressure": 1017,
+      "humidity": 84,
+      "dew_point": 15.2,
+      "uvi": 0,
+      "clouds": 100,
+      "visibility": 10000,
+      "wind_speed": 1.9,
+      "wind_deg": 201,
+      "wind_gust": 2.86,
+      "weather": {
+        "id": 804,
+        "main": "Clouds",
+        "description": "厚い雲",
+        "icon": "04n"
+      },
+      "pop": 0
+    },
+    {
+      "dt": 1749844800,
+      "japanese_time": "2025/6/14 5:00:00",
+      "temp": 18.55,
+      "feels_like": 18.65,
+      "pressure": 1017,
+      "humidity": 84,
+      "dew_point": 15.31,
+      "uvi": 0.04,
+      "clouds": 100,
+      "visibility": 10000,
+      "wind_speed": 1.69,
+      "wind_deg": 196,
+      "wind_gust": 2.61,
+      "weather": {
+        "id": 804,
+        "main": "Clouds",
+        "description": "厚い雲",
+        "icon": "04d"
+      },
+      "pop": 0
+    },
+    {
+      "dt": 1749848400,
+      "japanese_time": "2025/6/14 6:00:00",
+      "temp": 18.76,
+      "feels_like": 18.88,
+      "pressure": 1017,
+      "humidity": 84,
+      "dew_point": 15.56,
+      "uvi": 0.1,
+      "clouds": 100,
+      "visibility": 10000,
+      "wind_speed": 1.75,
+      "wind_deg": 197,
+      "wind_gust": 3.01,
+      "weather": {
+        "id": 804,
+        "main": "Clouds",
+        "description": "厚い雲",
+        "icon": "04d"
+      },
+      "pop": 0
+    },
+    {
+      "dt": 1749852000,
+      "japanese_time": "2025/6/14 7:00:00",
+      "temp": 19.09,
+      "feels_like": 19.25,
+      "pressure": 1017,
+      "humidity": 84,
+      "dew_point": 15.77,
+      "uvi": 0.28,
+      "clouds": 100,
+      "visibility": 10000,
+      "wind_speed": 2.08,
+      "wind_deg": 195,
+      "wind_gust": 3.34,
+      "weather": {
+        "id": 804,
+        "main": "Clouds",
+        "description": "厚い雲",
+        "icon": "04d"
+      },
+      "pop": 0
+    },
+    {
+      "dt": 1749855600,
+      "japanese_time": "2025/6/14 8:00:00",
+      "temp": 19.39,
+      "feels_like": 19.55,
+      "pressure": 1016,
+      "humidity": 83,
+      "dew_point": 15.95,
+      "uvi": 0.42,
+      "clouds": 100,
+      "visibility": 10000,
+      "wind_speed": 2.46,
+      "wind_deg": 189,
+      "wind_gust": 4.1,
+      "weather": {
+        "id": 804,
+        "main": "Clouds",
+        "description": "厚い雲",
+        "icon": "04d"
+      },
+      "pop": 0
+    },
+    {
+      "dt": 1749859200,
+      "japanese_time": "2025/6/14 9:00:00",
+      "temp": 19.59,
+      "feels_like": 19.77,
+      "pressure": 1016,
+      "humidity": 83,
+      "dew_point": 16.09,
+      "uvi": 0.61,
+      "clouds": 100,
+      "visibility": 10000,
+      "wind_speed": 2.59,
+      "wind_deg": 190,
+      "wind_gust": 4.11,
+      "weather": {
+        "id": 804,
+        "main": "Clouds",
+        "description": "厚い雲",
+        "icon": "04d"
+      },
+      "pop": 0
+    },
+    {
+      "dt": 1749862800,
+      "japanese_time": "2025/6/14 10:00:00",
+      "temp": 20.19,
+      "feels_like": 20.35,
+      "pressure": 1015,
+      "humidity": 80,
+      "dew_point": 16.02,
+      "uvi": 1.95,
+      "clouds": 100,
+      "visibility": 10000,
+      "wind_speed": 2.18,
+      "wind_deg": 173,
+      "wind_gust": 3.5,
+      "weather": {
+        "id": 804,
+        "main": "Clouds",
+        "description": "厚い雲",
+        "icon": "04d"
+      },
+      "pop": 0.33
+    },
+    {
+      "dt": 1749866400,
+      "japanese_time": "2025/6/14 11:00:00",
+      "temp": 20.24,
+      "feels_like": 20.43,
+      "pressure": 1015,
+      "humidity": 81,
+      "dew_point": 16.25,
+      "uvi": 1.91,
+      "clouds": 100,
+      "visibility": 10000,
+      "wind_speed": 2.02,
+      "wind_deg": 172,
+      "wind_gust": 3,
+      "weather": {
+        "id": 500,
+        "main": "Rain",
+        "description": "小雨",
+        "icon": "10d"
+      },
+      "pop": 0.6,
+      "rain": {
+        "1h": 0.13
+      }
+    },
+    {
+      "dt": 1749870000,
+      "japanese_time": "2025/6/14 12:00:00",
+      "temp": 19.49,
+      "feels_like": 19.74,
+      "pressure": 1014,
+      "humidity": 86,
+      "dew_point": 16.59,
+      "uvi": 1.99,
+      "clouds": 100,
+      "visibility": 10000,
+      "wind_speed": 2.5,
+      "wind_deg": 175,
+      "wind_gust": 3.94,
+      "weather": {
+        "id": 500,
+        "main": "Rain",
+        "description": "小雨",
+        "icon": "10d"
+      },
+      "pop": 0.91,
+      "rain": {
+        "1h": 0.14
+      }
+    },
+    {
+      "dt": 1749873600,
+      "japanese_time": "2025/6/14 13:00:00",
+      "temp": 19.71,
+      "feels_like": 19.96,
+      "pressure": 1014,
+      "humidity": 85,
+      "dew_point": 16.51,
+      "uvi": 1.67,
+      "clouds": 100,
+      "visibility": 10000,
+      "wind_speed": 2.58,
+      "wind_deg": 175,
+      "wind_gust": 3.63,
+      "weather": {
+        "id": 500,
+        "main": "Rain",
+        "description": "小雨",
+        "icon": "10d"
+      },
+      "pop": 1,
+      "rain": {
+        "1h": 0.26
+      }
+    }
+  ]
+}
